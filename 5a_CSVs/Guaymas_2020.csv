@@ -1,0 +1,4 @@
+,Jan,Feb,Mar,Apr,May,Jun,July,Aug,Sep,Nov,Dec
+Boats length < 24 meters,63,101,159,52,145,85,66,121,28,74,113
+Boats length >= 24 meters,18,13,15,13,21,4,13,22,15,28,15
+Small White Boats,63,101,138,52,142,79,66,119,25,66,108

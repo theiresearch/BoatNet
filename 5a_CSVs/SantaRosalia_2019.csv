@@ -1,0 +1,4 @@
+,Jan,July,Aug,Sep,Dec
+Boats length < 24 meters,27,41,36,29,22
+Boats length >= 24 meters,0,2,1,0,2
+Small White Boats,25,41,35,29,22
