@@ -1,0 +1,3 @@
+,Jan,Feb,Mar,Apr,Jun,July,Aug,Sep,Nov
+Boats length < 24 meters,15,20,17,27,30,29,21,39,44
+Boats length >= 24 meters,0,1,0,0,0,0,1,1,1
