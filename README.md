@@ -12,3 +12,6 @@ Preprint version 2 (6 Janurary 2023): https://doi.org/10.14324/111.444/000177.v2
   publisher={UCL Press}
 }
 ```
+
+## Pre-training dataset
+https://www.kaggle.com/datasets/realgjl/google-earth-images-for-ships
