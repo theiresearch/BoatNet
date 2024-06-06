@@ -1,5 +1,5 @@
-## Latest preprint
-Preprint version 2 (6 Janurary 2023): https://doi.org/10.14324/111.444/000177.v2
+## Publication
+https://journals.uclpress.co.uk/ucloe/article/853/galley/12357/view/
 
 
 ## Cite
@@ -13,5 +13,5 @@ Preprint version 2 (6 Janurary 2023): https://doi.org/10.14324/111.444/000177.v2
 }
 ```
 
-## Pre-training dataset
+## Pre-trained data
 https://www.kaggle.com/datasets/realgjl/google-earth-images-for-ships
