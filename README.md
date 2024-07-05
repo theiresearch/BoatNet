@@ -23,5 +23,5 @@ Guaymas: 513 images<br>
 Loreto: 83 images<br>
 Santa Rosalia: 94 images<br>
 size: 3840 x 2160 pixels<br>
-https://huggingface.co/datasets/theiresearch/BoatNet-testing
+https://huggingface.co/datasets/theiresearch/BoatNet-testing-op
 
