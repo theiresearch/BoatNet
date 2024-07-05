@@ -1,8 +1,4 @@
-## Publication
-https://journals.uclpress.co.uk/ucloe/article/853/galley/12357/view/
-
-
-## Cite
+## cite
 ```cite
 @article{jialeng2023boatnet,
   title={BoatNet: Automated Small Boat Composition Detection using Deep Learning on Satellite Imagery},
@@ -12,6 +8,15 @@ https://journals.uclpress.co.uk/ucloe/article/853/galley/12357/view/
   publisher={UCL Press}
 }
 ```
+## publication
+https://journals.uclpress.co.uk/ucloe/article/853/galley/12357/view/
 
-## Pre-trained data
-https://www.kaggle.com/datasets/realgjl/google-earth-images-for-ships
+## BoatNet training imgaes with labels
+images: 694
+
+labels: 694
+
+size: 416 x 416 pixels
+
+datasets: https://huggingface.co/datasets/theiresearch/BoatNet-training
+
